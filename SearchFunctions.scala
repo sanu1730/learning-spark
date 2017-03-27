@@ -1,4 +1,5 @@
 # Picked up from an example from "Learning Spark"
+# Update RDD transformations using function passing in Scala 
 
 import org.apache.spark.rdd.RDD
 
